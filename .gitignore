@@ -128,3 +128,4 @@ dmypy.json
 Satellite_images/
 *.tif
 *.xml
+data/shapefiles/CLC2012_PT_v2
