@@ -126,3 +126,5 @@ dmypy.json
 
 # Satellite Images
 Satellite_images/
+*.tif
+*.xml
